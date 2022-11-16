@@ -1,0 +1,45 @@
+body{
+    background-color: beige;
+    background-image: -o-repeating-linear-gradient();
+}
+h1
+{
+    text-align: center;
+}
+img{
+    width:50%; 
+}
+h2
+{
+    text-align: center;
+    background-color:rgb(61, 60, 60);
+    color: white;
+    
+}
+#profil{
+    text-align:center;
+    line-height: 150%;
+}
+#formations
+{
+    line-height: 200%;
+}
+.image{
+    text-align: right;
+    padding-right: 2%;
+}
+#experience{
+    line-height: 250%;
+}
+#informatique
+{
+    line-height: 200%;
+}
+#linguistique
+{
+    line-height: 200%;
+}
+#interet
+{
+    line-height: 200%;
+}
